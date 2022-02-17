@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Orlova Alla. I'm Junior frontend-developer and I love my job.
+- 👋 Hi, I’m Orlova Alla. I'm Junior frontend-developer.
 
 
 <!---
